@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savan Kansagra</h1>
-<h3 align="center">A passionate backend developer and product manager from india.</h3>
+<h3 align="center">A passionate backend developer, Java Developer and sCucumber Tester from india.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savankansagra&label=Profile%20views&color=0e75b6&style=flat" alt="savankansagra" /> </p>
 
@@ -7,17 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/savan_kansagra" target="blank"><img src="https://img.shields.io/twitter/follow/savan_kansagra?logo=twitter&style=for-the-badge" alt="savan_kansagra" /></a> </p>
 
-- 🔭 I’m currently working on [returntrip.network](https://github.com/savankansagra/transportOne)
+- 🔭 I’m currently working on [cybrilla](https://www.cybrilla.com/)
 
-- 🌱 I’m currently learning **gcp with scallable springboot application. creating product from bootstrap.**
 
-- 👯 I’m looking to collaborate on [returntrip.network](https://github.com/savankansagra/transportOne)
+- 💬 Ask me about **java, springboot, sql, backend, restapi, cucumber, BDD, Machine learning**
 
-- 🤝 I’m looking for help with [returntrip.network](https://github.com/savankansagra/transportOne)
-
-- 💬 Ask me about **java, springboot, sql, backend, restapi**
-
-- 📫 How to reach me **kansagrasavan108@gmail.com**
+- 📫 How to reach me **kansagrasavan109@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSsFz7rHjr2MBa-P2kHgFUTn6NWTCqql4-bZg59HAK-VyN3tC0luCcTKB6qW1n1pKV49ZzXtc4GyiRf/pub](https://docs.google.com/document/d/e/2PACX-1vSsFz7rHjr2MBa-P2kHgFUTn6NWTCqql4-bZg59HAK-VyN3tC0luCcTKB6qW1n1pKV49ZzXtc4GyiRf/pub)
 
